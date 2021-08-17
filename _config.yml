@@ -48,8 +48,9 @@ linkedin_username: crodriguezmunoz
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Carlos and I'm an aspiring Data Expert. I have prior internship experience in data analytics and my personal projects focus more on data science. 
+  Hi, my name's Carlos and I'm an aspiring Data Expert. I have prior internship experience in data analytics and my personal projects focus on data science. 
   I love learning and teaching others, so I am constantly pushing myself to work on new projects and to ask tons of questions!
+
 
   I am most passionate about: Using <mark>Data-Driven</mark> decision making, <mark>learning</mark>, and pour over style <mark>coffee</mark>.
 
