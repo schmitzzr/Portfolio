@@ -9,10 +9,10 @@ version: 2
 name: Carlos Rodriguez-Munoz
 title: Aspiring Data Expert
 email: carlos.rodriguez.munoz98@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -65,7 +65,7 @@ content:
         additional_links:
           - title:  stockapp github
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/crodriguezm2016/Stock-App
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
