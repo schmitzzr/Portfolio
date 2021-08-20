@@ -38,12 +38,6 @@ linkedin_username: crodriguezmunoz
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me
 about_profile_image: images/profile-circle.png
@@ -112,6 +106,15 @@ content:
             As a peer tutor, I became a **CRLA Level 1 Certified Peer Tutor**.
             I helped over **10** students each week, both in person and virtually over **Microsoft Teams** in areas such as **Statistics**, **Calculus**, **R Programming**, and **Differential Equations**.
 
+      - layout: left
+        title: Teacher and Assistant Dean
+        link: https://www.vejlefjordskolen.dk/
+        # link_text: boringcompany.com
+        sub_title: Vejlefjordskolen
+        caption: August 2018 - June 2019
+        description: | # this will include new lines to allow paragraphs
+            I moved to Denmark for a year to work as a Teacher and Assistant Dean
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -123,7 +126,22 @@ content:
           During my time at Walla Walla University, I developed my deep passion for math, data, and learning! My main emphasis was in Applied Mathematics, specifically, differential equations and statistics.
           In additon to my major in Mathematics, I also completed a minor in Economics where I had a particular interest in financial markets and institutions.
 
-          I spent a lot of my free time chatting with anyone and everyone, as well as helping people with Math. 
+  - title: Skills and Certifications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      My main skillset includes:
+      - Math: My strongest areas are in **Statistics** and **Differential Equations**
+      - Programming: **R**, **Python**, and **SQL** are my strong suits.
+      - Data Analytics: I have extensive experience using **Google Sheets**, **Excel**, and **Google Data Studio**.
+      - Remote Work: I am comfortable with **Microsoft Teams**, **Zoom**, **G-Suite**, **Slack**, and **Overleaf** for **LaTeX**.
+      - Languages: My native language is English, I am somewhat conversational in Danish, and am at a beginner level with Spanish.
+
+      The certifications that I currently hold are below and to view them, click [here](https://drive.google.com/drive/folders/1Cd9c9oaLP5R89Ge4Ch1LaYf0udIcNyBq?usp=sharing).
+      - Math: My strongest areas are in **Statistics** and **Differential Equations**
+      - Programming: **R**, **Python**, and **SQL** are my strong suits.
+      - Analytics: Teaching myself some machine learning concepts from freeCodeCamp
+      - Math: Mathematical Modeling and Differential Equations have been top of my list lately
+      - Backpacking: Still reminicing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
 
   - title: A Little More About Me
     layout: text
