@@ -113,7 +113,9 @@ content:
         sub_title: Vejlefjordskolen
         caption: August 2018 - June 2019
         description: | # this will include new lines to allow paragraphs
-            I moved to Denmark for a year to work as a Teacher and Assistant Dean 
+            I moved to Denmark for a year to work as a Teacher and Assistant Dean. 
+            During the day, I taught Math, English, Computers, and E-sports to over 30 students between 2nd grade and 8th grade.
+            In the evenings, I would foster mentorships with the boarding students, tutor, and perform nightly checks for over 50 students. 
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -137,11 +139,11 @@ content:
       - Languages: My native language is English, I am somewhat conversational in Danish, and am at a beginner level with Spanish.
 
       The certifications that I currently hold are below and to view them, click [here](https://drive.google.com/drive/folders/1Cd9c9oaLP5R89Ge4Ch1LaYf0udIcNyBq?usp=sharing).
-      - Math: My strongest areas are in **Statistics** and **Differential Equations**
-      - Programming: **R**, **Python**, and **SQL** are my strong suits.
-      - Analytics: Teaching myself some machine learning concepts from freeCodeCamp
-      - Math: Mathematical Modeling and Differential Equations have been top of my list lately
-      - Backpacking: Still reminicing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
+      - Learning Python by LinkedIn Learning
+      - Learning SQL Programming by LinkedIn Learning
+      - Learning Excel: Data Analysis by LinkedIn Learning
+      - Learning Google Data Studio for Marketers by LinkedIn Learning
+      - Data Visualization for Data Analysis and Analytics by LinkedIn Learning
 
   - title: A Little More About Me
     layout: text
@@ -152,6 +154,7 @@ content:
       - Learning: Teaching myself some machine learning concepts from freeCodeCamp
       - Math: Mathematical Modeling and Differential Equations have been top of my list lately
       - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
+      - Traveling: I've visited over 20 countries and am super excited to visit even more! Some of my favorite cities are Copenhagen (I'm biased), Venice, and Prague.
 
 # Footer
 footer_show_references: true
