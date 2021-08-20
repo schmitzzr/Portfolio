@@ -65,7 +65,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This web app allows a user to enter a stock ticker, choose the type of data they would like to pull (Daily, Weekly, Monthly, or Quarterly) and how far back they would like to pull data from.
-          Once these are selected, data is pulled from Yahoo! Finance and graphs for the opening, high, low, and closing prices, as well as the volume of shares traded are displayed
+          Once these are selected, data is pulled from Yahoo! Finance and graphs for the opening, high, low, and closing prices, as well as the volume of shares traded are displayed.
           
           I created this project in <mark>Python</mark> and utilized packages such as **pandas** and **yfinance**.
 
