@@ -113,7 +113,7 @@ content:
         sub_title: Vejlefjordskolen
         caption: August 2018 - June 2019
         description: | # this will include new lines to allow paragraphs
-            I moved to Denmark for a year to work as a Teacher and Assistant Dean
+            I moved to Denmark for a year to work as a Teacher and Assistant Dean 
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -124,12 +124,12 @@ content:
         sub_title: BA Mathematics
         description: | # this will include new lines to allow paragraphs
           During my time at Walla Walla University, I developed my deep passion for math, data, and learning! My main emphasis was in Applied Mathematics, specifically, differential equations and statistics.
-          In additon to my major in Mathematics, I also completed a minor in Economics where I had a particular interest in financial markets and institutions.
+          In addition to my major in Mathematics, I also completed a minor in Economics where I had a particular interest in financial markets and institutions.
 
   - title: Skills and Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      My main skillset includes:
+      My main skill set includes:
       - Math: My strongest areas are in **Statistics** and **Differential Equations**
       - Programming: **R**, **Python**, and **SQL** are my strong suits.
       - Data Analytics: I have extensive experience using **Google Sheets**, **Excel**, and **Google Data Studio**.
@@ -147,11 +147,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently enjoying a washed single origin from Ethopia by Roseline
+      - Coffee: Currently enjoying a washed single origin from Ethiopia by Roseline
       - Gaming: Lately, I've been playing Gunfire Reborn and League of Legends
       - Learning: Teaching myself some machine learning concepts from freeCodeCamp
       - Math: Mathematical Modeling and Differential Equations have been top of my list lately
-      - Backpacking: Still reminicing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
+      - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
 
 # Footer
 footer_show_references: true
