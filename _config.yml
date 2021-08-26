@@ -72,7 +72,7 @@ content:
           
       - layout: top-middle
         title: Stock Price Tracker Web App
-        link: https://share.streamlit.io/crodriguezm2016/streamlit-apps/main/streamlit.py
+        link: stockapp.carlosrodriguezm.com
         # link_text: Project Website
         additional_links:
           - title:  stockapp github
