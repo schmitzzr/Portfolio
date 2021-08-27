@@ -54,7 +54,7 @@ content:
     content:
       - layout: top-middle
         title: Predicting and Modeling Pulic Opinion
-        link: seniorproject.carlosrodriguezm.com
+        link: https://links.carlosrodriguezm.com/seniorprojectpaper
         # link_text: Project Website
         additional_links:
           - title:  senior project github
@@ -72,7 +72,7 @@ content:
           
       - layout: top-middle
         title: Stock Price Tracker Web App
-        link: stockapp.carlosrodriguezm.com
+        link: https://links.carlosrodriguezm.com/stockapp
         # link_text: Project Website
         additional_links:
           - title:  stockapp github
