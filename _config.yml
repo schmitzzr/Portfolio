@@ -72,12 +72,12 @@ content:
           
       - layout: top-middle
         title: Stock Price Tracker Web App
-        link: stockapp.carlosrodriguezm.com
+        link: https://links.carlosrodriguezm.com/stockapp
         # link_text: Project Website
         additional_links:
           - title:  stockapp github
             icon: fab fa-github
-            url: https://links.carlosrodriguezm.com/stockapp
+            url: https://github.com/crodriguezm2016/Stock-App
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
