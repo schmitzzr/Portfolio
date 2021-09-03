@@ -72,7 +72,7 @@ content:
           
       - layout: top-middle
         title: Stock Price Tracker Web App
-        link: https://links.carlosrodriguezm.com/stockapp
+        link: stockapp.carlosrodriguezm.com
         # link_text: Project Website
         additional_links:
           - title:  stockapp github
@@ -86,6 +86,20 @@ content:
           Once these are selected, data is pulled from Yahoo! Finance and graphs for the opening, high, low, and closing prices, as well as the volume of shares traded are displayed.
           
           I created this project in <mark>Python</mark> and utilized packages such as **pandas** and **yfinance**.
+          
+      - layout: top-middle
+        title: Stock Price Tracker Web App
+        link: https://links.carlosrodriguezm.com/2016election
+        # link_text: Project Website
+        additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
+          FIPS and a GeoJSON file are used to determine the color and shade to mark each county area.
+          
+          I created this project in <mark>Python</mark> and utilized packages such as **pandas** and **plotly**.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
