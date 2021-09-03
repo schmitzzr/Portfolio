@@ -77,7 +77,7 @@ content:
         additional_links:
           - title:  stockapp github
             icon: fab fa-github
-            url: https://github.com/crodriguezm2016/Stock-App
+            url: https://links.carlosrodriguezm.com/stockapp
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -88,7 +88,7 @@ content:
           I created this project in <mark>Python</mark> and utilized packages such as **pandas** and **yfinance**.
           
       - layout: top-middle
-        title: Stock Price Tracker Web App
+        title: 2016 Election Data Visualization
         link: https://links.carlosrodriguezm.com/2016election
         # link_text: Project Website
         additional_links:
