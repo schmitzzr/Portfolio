@@ -68,7 +68,7 @@ content:
           This project used regression techniques and parameter estimation in order to fully build out a mathematical model of 3 Differential Equations that would predict and model public opinion polling. 
           Training and Testing Data was from the Gallop Polling Organizaiton.
           
-          I created this project using the **R programming language** and utilized packages such as **plotly**, **deSolve**, **ggplot2**, **plot3D**, and **rootSolve**.
+          I created this project in **R Studio** using the **R programming language** and utilized packages such as **plotly**, **deSolve**, **ggplot2**, **plot3D**, and **rootSolve**.
           
       - layout: top-middle
         title: Stock Price Tracker Web App
@@ -85,7 +85,7 @@ content:
           This web app allows a user to enter a stock ticker, choose the type of data they would like to pull (Daily, Weekly, Monthly, or Quarterly) and how far back they would like to pull data from.
           Once these are selected, data is pulled from Yahoo! Finance and graphs for the opening, high, low, and closing prices, as well as the volume of shares traded are displayed.
           
-          I created this project in <mark>Python</mark> and utilized packages such as **pandas** and **yfinance**.
+          I created this project in **VS Code** using **Python** and utilized packages such as **pandas** and **yfinance**.
           
       - layout: top-middle
         title: 2016 Election Data Visualization
@@ -99,7 +99,7 @@ content:
           This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
           FIPS and a GeoJSON file are used to determine the color and shade to mark each county area.
           
-          I created this project in <mark>Python</mark> and utilized packages such as **pandas** and **plotly**.
+          I created this project in **Google Colab** using **Python** and **Jupyter Notebooks**, utilizing packages such as **pandas** and **plotly**.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
