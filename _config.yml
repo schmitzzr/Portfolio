@@ -145,9 +145,9 @@ content:
         sub_title: Vejlefjordskolen
         caption: August 2018 - June 2019
         description: | # this will include new lines to allow paragraphs
-            I moved to Denmark for a year to work as a Teacher and Assistant Dean. 
-            During the day, I taught Math, English, Computers, and E-sports to over 30 students between 2nd grade and 8th grade.
-            In the evenings, I would foster mentorships with the boarding students, tutor, and perform nightly checks for over 50 students. 
+            I moved to **Denmark** for a year to work as a **Teacher** and **Assistant Dean**. 
+            During the day, I taught **Math**, English, **Computers**, and E-sports to over **30** students between **2nd** grade and **8th** grade.
+            In the evenings, I would foster mentorships with the boarding students, tutor, and perform nightly checks for over **50** students. 
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
