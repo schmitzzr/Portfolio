@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Zachary Schmitz
-title: Aspiring Programmer/Software Developer
+title: Aspiring Programmer/Software Engineer
 email: schmitzzr@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -42,8 +42,9 @@ linkedin_username: schmitzzr
 # about_title: About Me
 about_profile_image: images/profile-circle.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Zach and I'm an aspiring programmer and software developer. I enjoy learning, but I have essentially become a jack-of-all-trades, so my personal projects reflect that.  
-  I love learning and teaching others, so I am constantly pushing myself to work on new projects and to ask tons of questions!
+  Hi, my name's Zach and I'm an aspiring programmer and software engineer.  I have essentially become a jack-of-all-trades, so my 
+  personal projects reflect that.  There are just so many different computer science topics that I just keep finding new projects to work on in many
+  different fields.  I love learning, and I am willing to accept any help and ask many questions if it means I can learn better! 
 
 
   I am most passionate about: Game development, web design, and other projects where I can show off my creativity.
@@ -153,7 +154,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Walla Walla University
+        title: University of Washington
         caption: June 2016 - December 2021
         sub_title: BA Mathematics
         description: | # this will include new lines to allow paragraphs
@@ -165,13 +166,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       My main skill set includes:
       - Math: My strongest areas are in **Statistics** and **Differential Equations**
-      - Programming: **R**, **Python**, and **SQL** are my strong suits.
+      - Programming: **Java**, **Python**, **C#**, **JavaScript**, and **HTML/CSS** are my strong suits.
       - Data Analytics: I have extensive experience using **Google Sheets**, **Excel**, and **Google Data Studio**.
       - Remote Work: I am comfortable with **Microsoft Teams**, **Zoom**, **G-Suite**, **Slack**, and **Overleaf** for **LaTeX**.
       - Languages: My native language is English, I am somewhat conversational in Danish, and am at a beginner level with Spanish.
 
       The certifications that I currently hold are below and to view them, click [here](https://drive.google.com/drive/folders/1Cd9c9oaLP5R89Ge4Ch1LaYf0udIcNyBq?usp=sharing).
-      - Learning **Python** by LinkedIn Learning
+      - Learning **Java** by LinkedIn Learning
       - Learning **SQL** Programming by LinkedIn Learning
       - Learning **Excel**: Data Analysis by LinkedIn Learning
       - Learning **Google Data Studio** for Marketers by LinkedIn Learning
