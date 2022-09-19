@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Zachary Schmitz
-title: Aspiring Programmer
+title: Aspiring Programmer/Software Developer
 email: schmitzzr@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -42,11 +42,11 @@ linkedin_username: schmitzzr
 # about_title: About Me
 about_profile_image: images/profile-circle.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Carlos and I'm an aspiring Data Expert. I have prior internship experience in data analytics and my personal projects focus on data science. 
+  Hi, my name's Zach and I'm an aspiring programmer and software developer. I enjoy learning, but I have essentially become a jack-of-all-trades, so my personal projects reflect that.  
   I love learning and teaching others, so I am constantly pushing myself to work on new projects and to ask tons of questions!
 
 
-  I am most passionate about: Using **Data-Driven** decision making, **mathematics**, **learning**, and pour over style **coffee**.
+  I am most passionate about: Game development, web design, and other projects where I can show off my creativity.
 
 content:
   - title: Projects # Title for the section
