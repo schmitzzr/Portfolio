@@ -155,11 +155,18 @@ content:
     content:
       - layout: left
         title: University of Washington
-        caption: June 2016 - December 2021
-        sub_title: BA Mathematics
+        caption: March 2020 - August 2022
+        sub_title: BS Computer Science and Systems (CSS)
         description: | # this will include new lines to allow paragraphs
-          During my time at Walla Walla University, I developed my deep passion for math, data, and learning! My main emphasis was in Applied Mathematics, specifically, differential equations and statistics.
-          In addition to my major in Mathematics, I also completed a minor in Economics where I had a particular interest in financial markets and institutions.
+          During my time in the CSS program at University of Washington, I developed a passion and greater understanding of the plethora of languages and applications of computer science.
+          I made sure to always turn in quality work, and ended the program with a 3.89 GPA.
+      - layout: left
+        title: University of Washington
+        caption: September 2015 - December 2017
+        sub_title: BS Mathematics
+        description: | # this will include new lines to allow paragraphs
+          During my time at University of Washington, I developed a passion and greater understanding of the plethora of languages and applications of computer science.
+          I made sure to always turn in quality work, and ended the program with a 3.74 GPA.
 
   - title: Skills and Certifications
     layout: text
