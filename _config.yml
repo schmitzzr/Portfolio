@@ -47,20 +47,20 @@ about_content: | # this will include new lines to allow paragraphs
   different fields.  I love learning, and I am willing to accept any help and ask many questions if it means I can learn better! 
 
 
-  I am most passionate about: Game development, web design, and other projects where I can show off my creativity.
+  I am most passionate about: Game development, mobile app development, and other projects where I can show off my creativity.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Predicting and Modeling Pulic Opinion
-        link: https://links.carlosrodriguezm.com/seniorprojectpaper
+        title: DrawPad Basic
+        link: https://github.com/schmitzzr/DrawPadBasic
         # link_text: Project Website
         additional_links:
-          - title:  senior project github
+          - title:  DrawPad Basic Github
             icon: fab fa-github
-            url: https://github.com/crodriguezm2016/Predicting-and-Modeling-Public-Opinion
+            url: https://github.com/schmitzzr/DrawPadBasic
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
