@@ -106,49 +106,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: TA/HR Data Analysis Intern
-        link: motional.com
+        title: Sales Representative
+        link: https://www.vectormarketing.com/
         # link_text: boringcompany.com
-        sub_title: Motional
-        caption: June 2021 - Present
-        quote: >
-          We're making driverless vehicles a safe, reliable, and accessible reality.
+        sub_title: Vector Marketing
+        caption: May 2018 - September 2018
+#         quote: >
+#           We're making driverless vehicles a safe, reliable, and accessible reality.
         description: | # this will include new lines to allow paragraphs
-            At Motional, I specialized in providing data-driven reports to the Human Resource, Talent Acquisition, and Leadership teams. 
-            I primarily used **Google Sheets** and **Microsoft Excel** to conduct analytics and regression models on recruiting data from **GreenHouse**. 
-            I also used **Google Data Studio** to create beautiful automated dashboards which were regularly sent out to the heads of the Engineering departments.
+            At Vector Marketing, I set my own hours and scheduled my own appointments to sell Cutco cutlery both in-person and over the phone.
+            During my time, I maintained a 95% closing ratio with in-person sales by effectively communicating and connecting with my customers.
+            Due to my diligence, I earned a President’s Letter by selling over $10,000 of Cutco products over three months.
 
-      - layout: left
-        title: Teacher's Assistant
-        link: wallawalla.edu
-        # link_text: boringcompany.com
-        sub_title: Walla Walla University
-        caption: September 2020 - Present
-        description: | # this will include new lines to allow paragraphs
-            As a Teacher's Assistant, I assisted **4** different professors in both the **Math** and **Business** departments at my university.
-            I taught the lab component of the **Intro to Statistics** class to over **20** students each week. 
-            I also provided constructive feedback on coursework to over **80** students each week and held review session before exams for classes such as **Probability & Statistics**, **Intro to Statistics**, the **Calculus** sequence, **Investments**, and **Economics**.
-
-      - layout: left
-        title: Peer Tutor
-        link: wallawalla.edu
-        # link_text: boringcompany.com
-        sub_title: Walla Walla University
-        caption: September 2019 - Present
-        description: | # this will include new lines to allow paragraphs
-            As a peer tutor, I became a **CRLA Level 1 Certified Peer Tutor**.
-            I helped over **10** students each week, both in person and virtually over **Microsoft Teams** in areas such as **Statistics**, **Calculus**, **R Programming**, and **Differential Equations**.
-
-      - layout: left
-        title: Teacher and Assistant Dean
-        link: https://www.vejlefjordskolen.dk/
-        # link_text: boringcompany.com
-        sub_title: Vejlefjordskolen
-        caption: August 2018 - June 2019
-        description: | # this will include new lines to allow paragraphs
-            I moved to **Denmark** for a year to work as a **Teacher** and **Assistant Dean**. 
-            During the day, I taught **Math**, English, **Computers**, and E-sports to over **30** students between **2nd** grade and **8th** grade.
-            In the evenings, I would foster mentorships with the boarding students, tutor, and perform nightly checks for over **50** students. 
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -165,25 +134,27 @@ content:
         caption: September 2015 - December 2017
         sub_title: BS Mathematics
         description: | # this will include new lines to allow paragraphs
-          During my time at University of Washington, I developed a passion and greater understanding of the plethora of languages and applications of computer science.
+          During my time in the Mathematics program University of Washington, I grew my understanding of mathematical concepts and analysis.
           I made sure to always turn in quality work, and ended the program with a 3.74 GPA.
 
   - title: Skills and Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
       My main skill set includes:
-      - Math: My strongest areas are in **Statistics** and **Differential Equations**
-      - Programming: **Java**, **Python**, **C#**, **JavaScript**, and **HTML/CSS** are my strong suits.
+      - Programming: **Java**, **Python**, **Kotlin**, **C#**, **JavaScript**, and **HTML/CSS** are my strong suits.
+      - IDEs/Engines: **IntelliJ**, **PyCharm**, **Android Studio**, **VS Code**, and **Unity** are the programs I use the most.
+      - Math: My strongest areas are in **Probability**, **Statistics** and **Differential Equations**
       - Data Analytics: I have extensive experience using **Google Sheets**, **Excel**, and **Google Data Studio**.
       - Remote Work: I am comfortable with **Microsoft Teams**, **Zoom**, **G-Suite**, **Slack**, and **Overleaf** for **LaTeX**.
       - Languages: My native language is English, I am somewhat conversational in Danish, and am at a beginner level with Spanish.
 
-      The certifications that I currently hold are below and to view them, click [here](https://drive.google.com/drive/folders/1Cd9c9oaLP5R89Ge4Ch1LaYf0udIcNyBq?usp=sharing).
-      - Learning **Java** by LinkedIn Learning
-      - Learning **SQL** Programming by LinkedIn Learning
-      - Learning **Excel**: Data Analysis by LinkedIn Learning
-      - Learning **Google Data Studio** for Marketers by LinkedIn Learning
-      - **Data Visualization** for Data Analysis and Analytics by LinkedIn Learning
+      The certifications that I *currently hold* are below.
+      - [Programming Foundations: Object-Oriented Design](https://drive.google.com/file/d/1kWpIOsG0RuzgImJoLpvKLowNx3n9c87z/view?usp=share_link) by LinkedIn Learning
+      - [Introduction to C# with Unity](https://www.linkedin.com/learning/certificates/33cc70c44877baa30995406ecff2699383eebddd70c3f369e66e6a3c353d9ae5?u=67682169) by LinkedIn Learning
+      - [Scientific Computing with Python](https://www.freecodecamp.org/certification/schmitzzr/scientific-computing-with-python-v7) by freeCodeCamp
+      
+      The certifications that I am *actively persuing* are below.
+      - 
 
   - title: A Little More About Me
     layout: text
