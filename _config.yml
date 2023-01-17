@@ -129,44 +129,46 @@ content:
         sub_title: BS Computer Science and Systems (CSS)
         description: | # this will include new lines to allow paragraphs
           During my time in the CSS program at University of Washington, I developed a passion and greater understanding of the plethora of languages and applications of computer science.
-          I made sure to always turn in quality work, and ended the program with a 3.89 GPA.
+          I worked with multiple teams to complete projects and assuming the position of leader in many of them.
+          I made sure to lead by example and always turn in quality work, and I ended the program with a 3.89 GPA.
       - layout: left
         title: University of Washington
         caption: September 2015 - December 2017
         sub_title: BS Mathematics
         description: | # this will include new lines to allow paragraphs
           During my time in the Mathematics program University of Washington, I grew my understanding of mathematical concepts and analysis.
-          I made sure to always turn in quality work, and ended the program with a 3.74 GPA.
+          I remained diligent throughout the program, and my efforts resulted in a 3.74 GPA.
 
   - title: Skills and Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
       My main skill set includes:
-      - Programming: **Java**, **Python**, **Kotlin**, **C#**, **JavaScript**, and **HTML/CSS** are my strong suits.
-      - IDEs/Engines: **IntelliJ**, **PyCharm**, **Android Studio**, **VS Code**, and **Unity** are the programs I use the most.
+      - Programming Languages: **Java**, **Python**, **Kotlin**, **JavaScript**, and **HTML/CSS** are my strong suits.
+      - Programming Concepts: I am confident in **Algorithms**, **Data Structures**, and **Object-Oriented Programming**.
+      - Developer Tools: **IntelliJ**, **PyCharm**, **Android Studio**, **VS Code**, and **Unity** are the programs I use the most.
+      - 
       - Math: My strongest areas are in **Probability**, **Statistics** and **Differential Equations**
-      - Data Analytics: I have extensive experience using **Google Sheets**, **Excel**, and **Google Data Studio**.
-      - Remote Work: I am comfortable with **Microsoft Teams**, **Zoom**, **G-Suite**, **Slack**, and **Overleaf** for **LaTeX**.
-      - Languages: My native language is English, I am somewhat conversational in Danish, and am at a beginner level with Spanish.
+      - Remote Work: I am comfortable with **Zoom** and **Overleaf** for **LaTeX**.
 
       The certifications that I *currently hold* are below.
       - [Programming Foundations: Object-Oriented Design](https://drive.google.com/file/d/1kWpIOsG0RuzgImJoLpvKLowNx3n9c87z/view?usp=share_link) by LinkedIn Learning
       - [Introduction to C# with Unity](https://www.linkedin.com/learning/certificates/33cc70c44877baa30995406ecff2699383eebddd70c3f369e66e6a3c353d9ae5?u=67682169) by LinkedIn Learning
       - [Scientific Computing with Python](https://www.freecodecamp.org/certification/schmitzzr/scientific-computing-with-python-v7) by freeCodeCamp
       
-      The certifications that I am *actively persuing* are below.
-      - 
+      The certifications that I am *actively pursuing* are below.
+      - [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/share/101WYy3@MhR00aBTtdBS17zX1StSM0nAywdvaBre6lI_PXJ-6N0xERACVGS5c9bDTi0WAr2T0g==/) by Udemy (60% completion)
+      - [Complete C# Unity Game Developer 2D](https://www.udemy.com/share/103J8C3@y4pTFklyo9eJhQL2Ed_86rFYXbziulcOwkKwb_p7Fo43u3bbK_QBAMKncDvkGUtJmg==/) by Udemy (40% completion)
+      - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/share/102JUu3@gBQXJu-PNEP9fUaqVVwGcFXuwBbeH-hdOqNV5ek0jXTYXNpPWwft4zI0lsVsXV89sw==/) by Udemy (35% completion) 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently enjoying a washed single origin from Ethiopia by Roseline
-      - Gaming: Lately, I've been playing Gunfire Reborn and League of Legends
-      - Learning: Teaching myself some machine learning concepts from freeCodeCamp
-      - Math: Mathematical Modeling and Differential Equations have been top of my list lately
-      - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
-      - Traveling: I've visited over 20 countries and am super excited to visit even more! Some of my favorite cities are Copenhagen (I'm biased), Venice, and Prague.
+      - Gaming: Lately, I've been playing Valheim and League of Legends.
+      - Learning: Teaching myself Android Studio and the Unity Game Engine. I've also been learning C# as well as building upon my Python skills.
+      - Cooking: Recently made a beef wellington for a New Years dinner.  Other recipes I like include chicken pot pie and various sushi rolls.
+      - Traveling: My most recent trip was a Mediterranean cruise in 2019.  We started in Rome and stopped at Pompeii, Montenegro, Mykonos, and ended in Athens.
+      - Sports: I've been playing pickleball with my friends in a backyard court for the past few years.  
 
 # Footer
 footer_show_references: true
