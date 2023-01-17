@@ -54,6 +54,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: 7 Minute Workout
+        link: https://drive.google.com/drive/folders/1PMfYYGC3zaYbKq32WzzRlaWddBHHd5a2?usp=share_link
+        link_text: Project Screenshots
+        additional_links:
+          - title:  7 Minute Workout Github
+            icon: fab fa-github
+            url: https://github.com/schmitzzr/WorkoutApp
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This project is an Android 12 mobile application that leads the user on a twelve-step timed exercise, which can run on 99% of Android devices.
+          This project also contains a feature to calculate BMI that can take either imperial or metric units of measurement.
+          Any completed workouts are stored in a database by the date and time completed, which the user can view to see their progress.
+          
+          I created this project in **Android Studio** using the **Kotlin programming language** and 
+          utilized packages such as **Room**, **coroutines**, **lifecycle**, and **speech**.
+          
+      - layout: top-middle
         title: DrawPad Basic
         link: https://drive.google.com/drive/folders/16bRsNaErxeAjGKZPogds7RqduzFqolfc?usp=share_link
         link_text: Project Screenshots
@@ -125,6 +144,8 @@ content:
     content:
       - layout: left
         title: University of Washington
+        link: https://drive.google.com/file/d/1Syw9DI184O27skcxLvr4OfpczRAapwrH/view?usp=share_link
+        link_text: Official Transcript
         caption: March 2020 - August 2022
         sub_title: BS Computer Science and Systems (CSS)
         description: | # this will include new lines to allow paragraphs
@@ -146,7 +167,6 @@ content:
       - Programming Languages: **Java**, **Python**, **Kotlin**, **JavaScript**, and **HTML/CSS** are my strong suits.
       - Programming Concepts: I am confident in **Algorithms**, **Data Structures**, and **Object-Oriented Programming**.
       - Developer Tools: **IntelliJ**, **PyCharm**, **Android Studio**, **VS Code**, and **Unity** are the programs I use the most.
-      - 
       - Math: My strongest areas are in **Probability**, **Statistics** and **Differential Equations**
       - Remote Work: I am comfortable with **Zoom** and **Overleaf** for **LaTeX**.
 
