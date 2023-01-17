@@ -9,7 +9,7 @@ version: 2
 name: Zachary Schmitz
 title: Aspiring Programmer/Software Engineer
 email: schmitzzr@gmail.com
-# website: www.github.com/sproogen/resume-theme
+website: https://github.com/schmitzzr/Porfolio
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -55,8 +55,8 @@ content:
     content:
       - layout: top-middle
         title: DrawPad Basic
-        link: https://github.com/schmitzzr/DrawPadBasic
-        # link_text: Project Website
+        link: https://drive.google.com/drive/folders/16bRsNaErxeAjGKZPogds7RqduzFqolfc?usp=share_link
+        link_text: Project Screenshots
         additional_links:
           - title:  DrawPad Basic Github
             icon: fab fa-github
@@ -65,11 +65,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This is an R markdown file of my senior project. 
-          This project used regression techniques and parameter estimation in order to fully build out a mathematical model of 3 Differential Equations that would predict and model public opinion polling. 
-          Training and Testing Data was from the Gallop Polling Organizaiton.
+          This project is an Android 12 mobile application where users can draw on a canvas, which can run on 99% of Android devices.
+          I created a custom layout that contains features including a color palette, undo/redo buttons, and adjustable brush size.
+          If external storage permissions are granted, users can choose to draw over their own photos and save their drawings to their devices.
           
-          I created this project in **R Studio** using the **R programming language** and utilized packages such as **plotly**, **deSolve**, **ggplot2**, **plot3D**, and **rootSolve**.
+          I created this project in **Android Studio** using the **Kotlin programming language** and 
+          utilized packages such as **graphics**, **coroutines**, and **lifecycle**.
           
       - layout: top-middle
         title: Stock Price Tracker Web App
