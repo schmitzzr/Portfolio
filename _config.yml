@@ -111,12 +111,12 @@ content:
           
       - layout: top-middle
         title: Trivia Maze
-        link: https://github.com/schmitzzr/TriviaMaze/
-        # link_text: Project Website
-#         additional_links:
-#           - title:  Trivia Maze Github
-#             icon: fab fa-github
-#             url: https://github.com/schmitzzr/TriviaMaze/
+        link: https://drive.google.com/drive/folders/1rCC2ybsLE2QRr2mq5WQNiEAy-PPB3n0c?usp=share_link
+        link_text: Project Screenshots
+        additional_links:
+          - title:  Trivia Maze Github
+            icon: fab fa-github
+            url: https://github.com/schmitzzr/TriviaMaze/
         description: | # this will include new lines to allow paragraphs
           I led an agile team of 3 to develop a trivia skills game using a model-view-controller pattern and object-oriented programming.
           We designed a fully-functioning GUI from scratch with customizable maze size and the ability to save and reload progress.
