@@ -9,7 +9,7 @@ version: 2
 name: Zachary Schmitz
 title: Aspiring Programmer/Software Engineer
 email: schmitzzr@gmail.com
-website: https://github.com/schmitzzr/Porfolio
+# website: https://github.com/schmitzzr/Portfolio
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -92,35 +92,37 @@ content:
           utilized packages such as **graphics**, **coroutines**, and **lifecycle**.
           
       - layout: top-middle
-        title: Stock Price Tracker Web App
-        link: https://links.carlosrodriguezm.com/stockapp
+        title: Speedfall
+        link: https://schmitzzr.github.io/WebGame/
         # link_text: Project Website
         additional_links:
-          - title:  stockapp github
+          - title:  Speedfall Github
             icon: fab fa-github
-            url: https://github.com/crodriguezm2016/Stock-App
+            url: https://github.com/schmitzzr/WebGame/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This web app allows a user to enter a stock ticker, choose the type of data they would like to pull (Daily, Weekly, Monthly, or Quarterly) and how far back they would like to pull data from.
-          Once these are selected, data is pulled from Yahoo! Finance and graphs for the opening, high, low, and closing prices, as well as the volume of shares traded are displayed.
+          I led an agile group of three to create a vertical platformer with custom sprites and animations, and it is playable from any computer web browser.
+          This web game was developed using a custom game engine, allowing for increased developer customization.  
+          We implemented a custom physics engine, level layouts, a title screen, platforms, obstacles, and a scoring system.
           
-          I created this project in **VS Code** using **Python** and utilized packages such as **pandas** and **yfinance**.
+          I created this project in **VS Code** using **JavaScript** and **HTML**.
           
       - layout: top-middle
-        title: 2016 Election Data Visualization
-        link: https://links.carlosrodriguezm.com/2016election
+        title: Trivia Maze
+        link: https://github.com/schmitzzr/TriviaMaze/
         # link_text: Project Website
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         additional_links:
+#           - title:  Trivia Maze Github
+#             icon: fab fa-github
+#             url: https://github.com/schmitzzr/TriviaMaze/
         description: | # this will include new lines to allow paragraphs
-          This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
-          FIPS and a GeoJSON file are used to determine the color and shade to mark each county area.
+          I led an agile team of 3 to develop a trivia skills game using a model-view-controller pattern and object-oriented programming.
+          We designed a fully-functioning GUI from scratch with customizable maze size and the ability to save and reload progress.
+          We created a database to store and access multiple-choice trivia questions randomly to improve replayability.  
           
-          I created this project in **Google Colab** using **Python** and **Jupyter Notebooks**, utilizing packages such as **pandas** and **plotly**.
+          I created this project in **IntelliJ** using **Java** and **SQLite**, utilizing the **JavaFX** package.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
