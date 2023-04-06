@@ -60,7 +60,7 @@ content:
         additional_links:
           - title:  7 Minute Workout Github
             icon: fab fa-github
-            url: https://github.com/schmitzzr/WorkoutApp
+            url: https://github.com/schmitzzr/7MinuteWorkout
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
